@@ -1,0 +1,36 @@
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="text-center">
+<div class="Homeheading">
+		<img src="~/images/ssslogo.png" alt="logo" width="100px" height="100px">
+		<h1>Sha Sweets & Snacks</h1>
+</div></div>
+
+	<div class="Homedescrp">
+		<p><marquee><img src="https://i.postimg.cc/zf6Vy2yv/tamil-text-marquee.png" width="750px" height="50px"></marquee></p>
+	</div>
+
+    <center>
+    <div class="userlogin">
+    <form action="VerifyLogin" method="post">
+        <br><h2>User Login</h2><br>
+        <p>
+            <label for="username">User Name: </label>
+            <input type="text" id="username" name="username" placeholder="Username or Email" value="">
+        </p><br>
+
+        <p>
+            <label for="password">Password: </label>
+            <input type="password"  id="password" name="password" value="">
+        </p><br>
+
+        <button type="submit" value="submit"> 
+            Login
+        </button>&emsp;
+
+        <a href="forgotpassword.html">Change Password</a> 
+    </form><br>
+    </div>
+    </center>
