@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sahithcad01\\Desktop\\CADBATCH\\PROJECT\\DB_Connectivity\\sweetshop_model_v1.1\\sweetshop.csproj": {}
+    "C:\\Users\\sahithcad01\\Desktop\\CADBATCH\\PROJECT\\mvc_db_connectivity\\sweetshop_model_v1.1\\sweetshop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sahithcad01\\Desktop\\CADBATCH\\PROJECT\\DB_Connectivity\\sweetshop_model_v1.1\\sweetshop.csproj": {
+    "C:\\Users\\sahithcad01\\Desktop\\CADBATCH\\PROJECT\\mvc_db_connectivity\\sweetshop_model_v1.1\\sweetshop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sahithcad01\\Desktop\\CADBATCH\\PROJECT\\DB_Connectivity\\sweetshop_model_v1.1\\sweetshop.csproj",
+        "projectUniqueName": "C:\\Users\\sahithcad01\\Desktop\\CADBATCH\\PROJECT\\mvc_db_connectivity\\sweetshop_model_v1.1\\sweetshop.csproj",
         "projectName": "sweetshop",
-        "projectPath": "C:\\Users\\sahithcad01\\Desktop\\CADBATCH\\PROJECT\\DB_Connectivity\\sweetshop_model_v1.1\\sweetshop.csproj",
+        "projectPath": "C:\\Users\\sahithcad01\\Desktop\\CADBATCH\\PROJECT\\mvc_db_connectivity\\sweetshop_model_v1.1\\sweetshop.csproj",
         "packagesPath": "C:\\Users\\sahithcad01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sahithcad01\\Desktop\\CADBATCH\\PROJECT\\DB_Connectivity\\sweetshop_model_v1.1\\obj\\",
+        "outputPath": "C:\\Users\\sahithcad01\\Desktop\\CADBATCH\\PROJECT\\mvc_db_connectivity\\sweetshop_model_v1.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sahithcad01\\AppData\\Roaming\\NuGet\\NuGet.Config"

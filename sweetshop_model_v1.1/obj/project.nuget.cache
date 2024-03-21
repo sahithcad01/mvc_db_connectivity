@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gvX7JNqz6L9w1XEV7j/Zw5K1LHruCQRKC/96wbPxd/4EZXsv/27FsN0y6oJ/ANUhUDOTQMwTSh8wR6lK1mBK0A==",
+  "dgSpecHash": "sAQF4sTRyl8+RZ3Mzsi6frc1Xx2xUdjbdBX1bpWZeiwY3s1gPVdgTUCBwP4R24VBOf15XXgmdzKz+9ZxYh5c8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sahithcad01\\Desktop\\CADBATCH\\PROJECT\\DB_Connectivity\\sweetshop_model_v1.1\\sweetshop.csproj",
+  "projectFilePath": "C:\\Users\\sahithcad01\\Desktop\\CADBATCH\\PROJECT\\mvc_db_connectivity\\sweetshop_model_v1.1\\sweetshop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sahithcad01\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\sahithcad01\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
